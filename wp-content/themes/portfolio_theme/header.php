@@ -5,5 +5,3 @@
     <title>Portfolio Theme</title>
   </head>
   <body>
-
-    <h1>This is my index</h1>
