@@ -9,5 +9,4 @@ function my_own_styles() {
 
 add_action( 'wp_enqueue_scripts', 'my_own_styles' );
 
-
- ?>
+?>
